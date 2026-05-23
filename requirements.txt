@@ -11,5 +11,6 @@ stanza
 nltk
 
 # Runtime model/resource requirements:
+# SPACY
 # python -m spacy download de_core_news_sm
 # Stanford CoreNLP German models are configured/downloaded by the notebook.
