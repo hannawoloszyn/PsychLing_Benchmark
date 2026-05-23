@@ -1,4 +1,5 @@
+#gitignore
 corenlp/
 .ipynb_checkpoints/
 __pycache__/
-*.pyc
+*.pyc 
