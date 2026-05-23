@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+spacy
+lexical-diversity
+torch
+transformers
+sentence-transformers
+sentencepiece
+stanza
+nltk
+
+# Runtime model/resource requirements:
+# python -m spacy download de_core_news_sm
+# Stanford CoreNLP German models are configured/downloaded by the notebook.
