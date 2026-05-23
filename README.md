@@ -6,7 +6,7 @@ This repository contains the supplementary notebook for the ACL submission
 The notebook provides a compact, reproducible implementation of the benchmark metrics that can be computed for a pair of German texts. It is intended as anonymous review material: it contains the executable analysis pipeline and example input texts, but does not include author-identifying information.
 
 ## Repository Contents
-add
+
 - `PsychLing_Benchmark.ipynb`: Jupyter notebook implementing the
   supplementary metric pipeline.
 - `README.md`: this file.
